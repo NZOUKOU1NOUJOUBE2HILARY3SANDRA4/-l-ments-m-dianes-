@@ -15,4 +15,4 @@ DICTIONNAIRE DE DONNÉES
 Tab[MAX] tableau de taille maximale pour stocker des éléments 
 n variable pour stocker la taille du tableau 
 var variable pour savoir lorsque la taille est pair ou impair 
-A B et C indice des différents éléments medians
+A B et C indice des différents éléments medians.
